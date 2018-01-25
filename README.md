@@ -39,7 +39,7 @@
 
 ### 2. 在Module的build.gradle添加依赖
 
-      compile 'com.github.open-android:ImageSelector:0.1.0'
+      compile 'com.github.hexingbo:ImageSelector:0.1.0'
 ### 3. 配置如下权限
 
      <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
